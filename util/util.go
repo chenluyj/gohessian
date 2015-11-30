@@ -1,4 +1,4 @@
-package gohessian
+package util
 
 import (
 	"bytes"

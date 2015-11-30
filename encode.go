@@ -2,6 +2,7 @@ package gohessian
 
 import (
 	"bytes"
+	"github.com/chenluyj/gohessian/util"
 	"log"
 	"runtime"
 	"time"

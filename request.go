@@ -3,6 +3,7 @@ package gohessian
 import (
 	"bytes"
 	"fmt"
+	"github.com/chenluyj/gohessian/util"
 	"io"
 	"io/ioutil"
 	"net/http"
